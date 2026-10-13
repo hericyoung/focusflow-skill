@@ -5,6 +5,8 @@ description: "Use when a user wants to start or continue FocusFlow in ChatGPT: d
 
 # FocusFlow
 
+**简体中文** | [English](SKILL.en.md)
+
 帮助用户保护当前主线、持续接触长期兴趣，并保留自由时间。通过 ChatGPT 对话和用户选择的定时任务运行，无需独立应用、数据库或服务器。使用用户的语言。
 
 ## 入口与边界

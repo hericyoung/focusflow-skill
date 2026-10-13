@@ -1,5 +1,7 @@
 # ChatGPT 定时任务与状态交接
 
+**简体中文** | [English](scheduled-tasks.en.md)
+
 ## 能力检查
 
 目标是用户自己的 **ChatGPT Scheduled Tasks**。Skill 是工作流说明，本身不会后台计时或自动发通知。Codex automations 是另一套功能：不要因为制作 Skill 的环境在 Codex 中，就用本地 automation 工具代替 ChatGPT 任务。
